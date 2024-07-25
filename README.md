@@ -18,10 +18,10 @@ See at : [DASHBOARD_LIVE](https://chrisluo5311.github.io/DASHBOARD_LIVE/home.htm
  <h2 ><img src="https://img.icons8.com/?size=20&id=33830&format=png&color=38B7BD"/> &nbspContent Preview: </h2>
 
 - Home page:
-<img src="https://chrisluo5311.github.io/DASHBOARD_LIVE/stylesheets/image/home_page.jpg"/ width="200">
+<img src="https://github.com/chrisluo5311/DASHBOARD_LIVE/blob/master/stylesheets/image/home_page.jpg"/>
 
 - Order list:
-<img src="https://chrisluo5311.github.io/DASHBOARD_LIVE/stylesheets/image/order_list.jpg"/ width="200">
+<img src="https://chrisluo5311.github.io/DASHBOARD_LIVE/stylesheets/image/order_list.jpg"/>
 
 - Order detail:
-<img src="https://chrisluo5311.github.io/DASHBOARD_LIVE/stylesheets/image/order_detail.jpg"/ width="200">
+<img src="https://chrisluo5311.github.io/DASHBOARD_LIVE/stylesheets/image/order_detail.jpg"/>
